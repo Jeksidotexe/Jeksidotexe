@@ -56,3 +56,19 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jeksidotexe&style=flat-square&color=58a6ff" alt="Profile Views"/>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeksidotexe/Jeksidotexe/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jeksidotexe/Jeksidotexe/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jeksidotexe/Jeksidotexe/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Jeksidotexe">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Jeksidotexe&count=10&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
