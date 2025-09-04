@@ -19,7 +19,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,python,cpp,mysql,git,linux,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,python,cpp,mysql,git,linux,html,vscode&perline=10" />
 </p>
 
 ---
