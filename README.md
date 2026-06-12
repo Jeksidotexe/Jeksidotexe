@@ -2,19 +2,13 @@
 
 <div align="center">
 
-<img src="https://images6.alphacoders.com/997/thumb-1920-997125.png" alt="Anime Header" width="100%" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Clean+Code+%7C+Problem+Solver;Always+Learning+New+Things;Building+Useful+and+Scalable+Apps" alt="Typing SVG" />
-
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d760de6d-0273-4ee6-b6ad-7a0bada86a5b/dk1t0ui-d971fe38-c964-4b71-a0ce-c60c8bf71055.png/v1/fill/w_1192,h_670,q_70,strp/anime_girl_with_rose_eyes_live_wallpaper_by_livewallpaperlibrary_dk1t0ui-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiIvZi9kNzYwZGU2ZC0wMjczLTRlZTYtYjZhZC03YTBiYWRhODZhNWIvZGsxdDB1aS1kOTcxZmUzOC1jOTY0LTRiNzEtYTBjZS1jNjBjOGJmNzEwNTUucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.r09nHWZBSyKHC2FSZVOL1bNbibGfu8D8_dx231iqmqY" alt="Anime Header" width="50%" />
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Jeksidotexe&style=flat-square&color=A855F7" alt="Profile Views"/>
 
 </div>
 
-<br>
 
 ---
 
