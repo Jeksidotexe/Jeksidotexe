@@ -11,7 +11,6 @@
 ## 🚀 About Me
 
 - 🎯 Fokus di **Web Development** (Laravel, Codeigniter, Tailwind, Bootstrap)
-- 📊 Sedang mendalami **Data Science & Machine Learning**
 - 🛠️ Suka membangun aplikasi yang **bermanfaat dan scalable**
 
 ---
