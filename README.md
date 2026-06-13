@@ -39,7 +39,7 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,html,vscode&perline=10" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,html,css,tailwind,bootstrap,vscode&perline=10" />
 
 </div>
 
